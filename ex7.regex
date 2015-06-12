@@ -1,0 +1,4 @@
+^/blog/article/[0-9]$
+^/blog/article/
+^/blog$
+^/admin
